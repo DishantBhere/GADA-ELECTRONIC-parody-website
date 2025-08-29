@@ -45,13 +45,6 @@ GADA-ELECTRONIC-parody-website/
 
 ---
 
-## 📦 Features
-
-- 🤖 Fake online store design mimicking Gada Electronics  
-- 🖥️ Responsive layout (basic)  
-- 🎭 Satirical, fictional UI content  
-- ⚡ Lightweight and fast  
-
 ---
 
 ## 🚧 Disclaimer
