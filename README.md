@@ -45,8 +45,6 @@ GADA-ELECTRONIC-parody-website/
 
 ---
 
----
-
 ## 🚧 Disclaimer
 
 This website is purely a **parody project** and not affiliated with any real business or show. Built for **fun & practice only**.
